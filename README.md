@@ -1,8 +1,7 @@
-<p align="center">
-	<img src="https://github.com/lsoaresDev/lsoaresDev/blob/4ca95cdec0afe44e00e1e50782288c8eae0b2fd3/assets/cumprimentar_github.gif" alt="Oi, eu sou o Leonardo">
-</p>
+<div align="center">
+<img width="70%" src="https://github.com/lsoaresDev/lsoaresDev/blob/99022a28bf73b770adb35ae6aced0e7dc316da8f/assets/cumprimentar_github.gif"/>
+</div>
 
-## Hello there 👋 I'm Leonardo Soares!
 
 ```javascript
 const Me = {
@@ -18,20 +17,24 @@ const Me = {
         'Go to cinema',
     ]
 }
+```
 
-
+```javascript
 function getCurrentCity() {
 	return Vinhedo_Brazil
   }
 
+```
 
+```javascript
 function notMuchJustChillin() {
   playingLeagueOfLegends()
   listeningEverybodyWantsToRuleTheWorld()
   eatingBurguer()
 }
 
-
+```
+```javascript
  function Ambitions() {
    buyMustang1970s()
 	 travelToDisney()
