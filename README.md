@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="" alt="Oi, eu sou o Leonardo">
+</p>
+
 ## Hello there 👋 I'm Leonardo Soares!
 
 ```javascript
