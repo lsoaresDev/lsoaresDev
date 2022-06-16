@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="" alt="Oi, eu sou o Leonardo">
+	<img src="https://github.com/lsoaresDev/lsoaresDev/blob/4ca95cdec0afe44e00e1e50782288c8eae0b2fd3/assets/cumprimentar_github.gif" alt="Oi, eu sou o Leonardo">
 </p>
 
 ## Hello there 👋 I'm Leonardo Soares!
